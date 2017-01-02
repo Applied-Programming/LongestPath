@@ -1,1 +1,1 @@
-# LongestPath
+# Longest Path Algorithm
